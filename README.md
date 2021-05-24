@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xCryptoJohn
+- 👋 Hi, I’m @0xJohnBe
 - 👀 I’m interested in python, javascript, machine-learning, cryptography, blockchain, cryptocurrency, robotics, plc, industry,
 - 🌱 I’m currently learning python, javascript, cryptography, connecting IT to the industry,
 - 💞️ I’m looking for cooperation in the industry,
